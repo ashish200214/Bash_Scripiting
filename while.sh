@@ -20,4 +20,4 @@ for (( i=1; i<=n; i++)); do
 while [ $i -le $n ]; do
   echo "$i"
   ((i++))
-done 
+done
